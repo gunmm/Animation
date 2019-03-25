@@ -1,0 +1,4 @@
+platform :ios, '10.1'
+use_frameworks!
+target 'TestMas' do
+pod 'Masonry'end
